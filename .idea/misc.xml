@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="JSX" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ReactNativePackager" nodePath="project" reactNativePackagePath="$PROJECT_DIR$/expotest/node_modules/react-native-cli" workingDirectory="$PROJECT_DIR$/expotest" />
+</project>
